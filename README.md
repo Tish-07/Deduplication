@@ -17,8 +17,10 @@ NLTK {
 
 (next type python in cmd)
 
-(import nltk
+(
+>>import nltk
 
-nltk.download)
+>>nltk.download()
+)
 
 (download all the requirements, may take from minutes to an hour or two depending on your internet connection)
